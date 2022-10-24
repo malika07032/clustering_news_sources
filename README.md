@@ -12,6 +12,8 @@ Part 1: Identifying popular news sources (part1-Modified.ipynb, part1-Modified.h
 Conclusion for Part 1 of the project:
 Most of the links were retweets of other tweets, so that was not very helpful for my investigation of news sources. However, there are still alot of interesting sources to look at. For instance, egov.press is Kazakhstan's governmental source for getting information on documentations, pension, social security and etc. tengrinews.kz, inbusiness.kz, kaz.orda.kz, egemen.kz, akorda.kz, inform.kz, ktk.kz, baigenews.kz are big news portals that mostly work of governmental orders. azattyq.kz, vlast.kz are knows and popular independent sources of information. Also, people from Kazakstan use Youtube, Instagram and TikTok to look out for the news.
 
+![bar-plot](https://user-images.githubusercontent.com/74110762/197629091-08ef9a05-4832-491d-ae5d-e1559719cd8a.png)
+
 Part 2: Classifying Kazakhstan's News Sources (part2-Modified.ipynb, part2-Modified.html)
 
 1. Researched independent and government-funded sources and got their twitter ids
