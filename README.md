@@ -1,6 +1,6 @@
 # Clustering Kazakhstan’s popular news sources
 Personal Project
-Author: Malika Parkhomchuk
+Author: Malika Parkhomchuk  
 Tools and Technologies: Python, tweepy, Twitter API, Unsupervised modeling (Clustering), pandas, numpy, sklearn, scipy, matplotlib, RegEx, requests
 
 
